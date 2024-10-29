@@ -17,4 +17,4 @@ class TradingStrategy(Strategy):
         holdings = data["holdings"]
         data = data["ohlcv"]
 
-        return TargetAllocation({"AAPL": 0.25,"AMZN":0.25, "KO" : 0.25, "BA" : 0.25})
+        return TargetAllocation({"AAPL": 0.25,"AMZN":0.25, "KO":0.25, "BA":0.25})
