@@ -1,0 +1,1 @@
+This strategy is so good
